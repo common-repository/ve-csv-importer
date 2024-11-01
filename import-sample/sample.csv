@@ -1,0 +1,4 @@
+Default Fields,,,,,,,,,Custom Fields,,,
+unique_id,title,slug,author_id,order,status,content,featured_image,cat_name,ve_blog_featured,_yoast_wpseo_title,_yoast_wpseo_metadesc,_yoast_wpseo_metakeywords
+1,Demo Post 1 ,,,1,publish,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget justo in mauris vehicula pellentesque ut eu arcu. Fusce vel blandit lacus, et mollis magna. Morbi malesuada sodales justo, non ornare risus.",,My Category,,,,
+2,Demo Post 1 ,,,2,publish,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget justo in mauris vehicula pellentesque ut eu arcu. Fusce vel blandit lacus, et mollis magna. Morbi malesuada sodales justo, non ornare risus.",,Demo Category ,,,,
